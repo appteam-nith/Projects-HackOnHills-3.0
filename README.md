@@ -23,8 +23,6 @@ Project name: Learner
 
 Project link: https://github.com/man-of-code/Learner
 
-Video demo link: some link 
-
 Team Members:
 [Mratyunjay Soni](https://github.com/man-of-code), 
 [Amit Yadav](https://github.com/amityadav0),
