@@ -17,8 +17,17 @@ Team Members:
 [Member 2](https://github.com/member2),
 [Member 3](https://github.com/member3)
 
-**2. Team Name**
+**2. Team Bits**
 
-......
-......
+Project name: Learner
+
+Project link: https://github.com/man-of-code/Learner
+
+Video demo link: some link 
+
+Team Members:
+[Mratyunjay Soni](https://github.com/man-of-code), 
+[Amit Yadav](https://github.com/amityadav0),
+[Ratik Jindal](https://github.com/ratik21)
+
 
