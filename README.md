@@ -1,2 +1,20 @@
 # Projects-HackOnHills-3.0
-This repository will contains listing of all projects developed in Hack On Hills 3.0 organised by AppTeam NITH
+
+Listing of Projects developed during Hack On Hills 3.0 by AppTeam NITH.
+
+1. Team Alpha
+
+Project name: Something
+
+Project link: https://github.com/someone/projectName
+
+Description: something........
+
+Video Demo link uploaded online: some link 
+
+Team Members
+[Member 1](https://github.com/member1)
+[Member 2](https://github.com/member2)
+[Member 3](https://github.com/member3)
+
+2. 
