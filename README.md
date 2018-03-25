@@ -23,6 +23,8 @@ Project name: Learner
 
 Project link: https://github.com/man-of-code/Learner
 
+Description: Python application to learn a simple game, using reinforcement learning.
+
 Team Members:
 [Mratyunjay Soni](https://github.com/man-of-code), 
 [Amit Yadav](https://github.com/amityadav0),
