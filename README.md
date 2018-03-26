@@ -30,6 +30,15 @@ Team Members:
 [Amit Yadav](https://github.com/amityadav0),
 [Ratik Jindal](https://github.com/ratik21)
 
-**3. Team Name**
-.....
+**3. Team DeltaForce**
 
+Project name: RollOnHills
+
+Project link: https://github.com/uaskh/RollOnHills-NITH
+
+Description: Virtual Tour of Nith , also a game with various missions.(For more read the readme of project)
+
+Team Members:
+[Ashutosh Sharma](https://github.com/uaskh),
+[Kartik Kumar](https://github.com/sckorpio),
+[Vansika Pareek](https://github.com/vansika)
