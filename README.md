@@ -30,6 +30,18 @@ Team Members:
 [Amit Yadav](https://github.com/amityadav0),
 [Ratik Jindal](https://github.com/ratik21)
 
-**3. Team Name**
+**4. Team Travis**
+
+Project name: NITH Hub
+
+Project link: https://github.com/ThisIsNSH/HackOnHills3
+
+Description: Simple app to take attendance, do hostel allotement, allow chatting with NITians and send live updates.
+
+Team Members:
+[NSH](https://github.com/ThisIsNSH), 
+[Naman Lalit](https://github.com/naman99lalit),
+[Vishal Parmar](https://github.com/Vishal17599),
+[Abhinav Lamba](https://github.com/Abhinavlamba)
 .....
 
