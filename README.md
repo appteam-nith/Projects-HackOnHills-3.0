@@ -30,6 +30,20 @@ Team Members:
 [Amit Yadav](https://github.com/amityadav0),
 [Ratik Jindal](https://github.com/ratik21)
 
-**3. Team Name**
-.....
+**3. Team Alpha_Q**
+
+Project name : QuizzeR_Bot
+
+Project link : https://github.com/adhv45/QuizzeR_Bot
+
+Description  : QuizzeR is an online quiz making bot which fetches information from Wikipedia of a given keyword and analyses                the received information using spaCy and nltk. The accuracy is 70-80 % for questions.
+
+Team Members : 
+  [Aayush Sharma](https://github.com/aayush1771)
+  [Anil Chhipa](https://github.com/adhv45)
+  [Sameer Mansuri](https://github.com/sameer91)
+  [Akash Soni](https://github.com/soniakash1998)
+  [Divyanshu Dhawan](https://github.com/dextroxd)
+
+
 
