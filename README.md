@@ -32,7 +32,7 @@ Team Members:
 
 **3. Team Alpha_Q**
 
-Project name : QuizzeR_Bot
+Project name : QuizzeR
 
 Project link : https://github.com/adhv45/QuizzeR_Bot
 
