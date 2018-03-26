@@ -30,6 +30,16 @@ Team Members:
 [Amit Yadav](https://github.com/amityadav0),
 [Ratik Jindal](https://github.com/ratik21)
 
-**3. Team Name**
-.....
+**3. Willow_Tree**
 
+Project name: DocWriter
+
+Project link: https://github.com/Souravirus/docWriter
+
+Description: A machine learning based handwriting recogniser
+
+Team Members:
+[Apoorva Sharma](https://github.com/okatticus),
+[Sourav Sahoo](https://github.com/Souravirus),
+[Rohit](https://github.com/rohit645),
+[Rohit Hill](https://github.com/rohithill)
