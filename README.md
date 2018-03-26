@@ -30,6 +30,18 @@ Team Members:
 [Amit Yadav](https://github.com/amityadav0),
 [Ratik Jindal](https://github.com/ratik21)
 
-**3. Team Name**
+**3. Team-Slate**
+
+Project name: Slate
+
+Project link: https://github.com/Team-Slate/Slate
+
+Description: Slate is a handwriting recognition program that takes input with the help of a pen by writing in air, with more than 95% * accuracy which does so much more than just recognition.There's a calculator,brightness control, music player, sketch pad and an ASCII art all which can be used with minimum keyboard interaction by the user. The possibilities are limitless and we will release updates at regular intevals. 
+
+Team Members:
+[Anubhaw Bhalotia](https://github.com/anubhawbhalotia)
+[Karthik Vedantam](https://github.com/kingsisland)
+[Muskan Jhunjhunwalla](https://github.com/musukeshu)
+
 .....
 
