@@ -143,4 +143,21 @@ Team Members:
 [Chirag Thakur](https://github.com/chirag-thakur/),
 [Shubhankar Sharma](https://github.com/batman2203)
 
+**11. Team TheBuggers**
+
+Project name: Say in Editor
+
+Project link: https://github.com/deepmanwani18/Say-in-Editor/tree/master/SayinEditor
+
+Description: A text editor aimed to ease coding on Android Devices by implying voice code snippets and on-screen code helper buttons.
+
+Video demo link: https://www.youtube.com/watch?v=TjpNXU9Q1ks
+
+Team Members:
+[Paras Gupta](https://github.com/parasg1999), 
+[Utkarsh Singh](https://github.com/utkarshsingh99),
+[Abhishek Agarwal](https://github.com/abhishek-31),
+[Deepesh Manwani](https://github.com/deepmanwani18)
+
+
 
