@@ -30,6 +30,21 @@ Team Members:
 [Amit Yadav](https://github.com/amityadav0),
 [Ratik Jindal](https://github.com/ratik21)
 
+**3. LazyLeaves**
+
+Project name: lazyband
+
+Project link: https://github.com/shikharsrivastava/LazyBand
+
+Description: LazyBand is an electronic music generator that takes in sound and produces electronic music from your creativity. It is written in python. See the [README](https://github.com/shikharsrivastava/LazyBand/blob/master/README.md) for more details.
+
+Authors:
+
+* [Param Singh](https://github.com/paramsingh)
+* [Shikhar Srivastava](https://github.com/shikharsrivastava)
+* [Abhishek Rastogi](https://github.com/princu7)
+
+
 **3. Team Name**
 .....
 
