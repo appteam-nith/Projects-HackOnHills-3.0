@@ -115,3 +115,18 @@ Team Members:
 [Utkarsh Raj](https://github.com/clearnote01),
 [Suyash Garg](https://github.com/ferbncode),
 [Bimalkant Lauhny](https://github.com/code-master5)
+
+**9. Willow_Tree**
+
+Project name: DocWriter
+
+Project link: https://github.com/Souravirus/docWriter
+
+Description: A machine learning based handwriting recogniser
+
+Team Members:
+[Apoorva Sharma](https://github.com/okatticus),
+[Sourav Sahoo](https://github.com/Souravirus),
+[Rohit](https://github.com/rohit645),
+[Rohit Hill](https://github.com/rohithill)
+
