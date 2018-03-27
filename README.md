@@ -1,21 +1,14 @@
 # Projects-HackOnHills-3.0
 
-Listing of Projects developed during Hack On Hills 3.0 by AppTeam NITH.
+**1. Team CodeQuarks**
 
-**1. Team Alpha**
+Project name: MazzerBot
 
-Project name: Something
+Project link: https://github.com/VIVG123/mazzerBot
 
-Project link: https://github.com/someone/projectName
+Description: this includes app code(zip file) and bot code(python)
 
-Description: something........
-
-Video demo link: some link
-
-Team Members:
-[Member 1](https://github.com/member1),
-[Member 2](https://github.com/member2),
-[Member 3](https://github.com/member3)
+Team Members: Vivek Gusain, Vivek Kumar, Marmik Sharma, Arushi Sehgal, Mayank Singh
 
 **2. Team Bits**
 
