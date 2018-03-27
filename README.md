@@ -44,7 +44,18 @@ Authors:
 * [Shikhar Srivastava](https://github.com/shikharsrivastava)
 * [Abhishek Rastogi](https://github.com/princu7)
 
+**4. Team Travis**
 
-**3. Team Name**
-.....
+Project name: NITH Hub
+
+Project link: https://github.com/ThisIsNSH/HackOnHills3
+
+Description: Simple app to take attendance, do hostel allotement, allow chatting with NITians and send live updates.
+
+Team Members:
+[NSH](https://github.com/ThisIsNSH), 
+[Naman Lalit](https://github.com/naman99lalit),
+[Vishal Parmar](https://github.com/Vishal17599),
+[Abhinav Lamba](https://github.com/Abhinavlamba)
+
 
