@@ -1,7 +1,5 @@
 # Projects-HackOnHills-3.0
 
-Listing of Projects developed during Hack On Hills 3.0 by AppTeam NITH.
-
 **1. Team CodeQuarks**
 
 Project name: MazzerBot
