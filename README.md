@@ -130,3 +130,17 @@ Team Members:
 [Rohit](https://github.com/rohit645),
 [Rohit Hill](https://github.com/rohithill)
 
+**10. Team MaxEntropy**
+
+Project name: HackOnStack
+
+Project link: https://github.com/Kartikay26/HackOnStack
+
+Description: A question and Answer site made in Flask Framework for python.
+
+Team Members:
+[Kartikay](https://github.com/Kartikay26), 
+[Chirag Thakur](https://github.com/chirag-thakur/),
+[Shubhankar Sharma](https://github.com/batman2203)
+
+
