@@ -58,4 +58,36 @@ Team Members:
 [Vishal Parmar](https://github.com/Vishal17599),
 [Abhinav Lamba](https://github.com/Abhinavlamba)
 
+**5. Team Alpha_Q**
+
+Project name : QuizzeR
+
+Project link : https://github.com/adhv45/QuizzeR_Bot
+
+Description  : QuizzeR is an online quiz making bot which fetches information from Wikipedia of a given keyword and analyses                the received information using spaCy and nltk. The accuracy is 70-80 % for questions.
+
+Team Members : 
+  [Aayush Sharma](https://github.com/aayush1771)
+  [Anil Chhipa](https://github.com/adhv45)
+  [Sameer Mansuri](https://github.com/sameer91)
+  [Akash Soni](https://github.com/soniakash1998)
+  [Divyanshu Dhawan](https://github.com/dextroxd)
+
+
+**6. Team-Slate**
+
+Project name: Slate
+
+Project link: https://github.com/Team-Slate/Slate
+
+Youtube link: https://youtu.be/K1Mnbz6ATeo
+
+Description: Slate is a handwriting recognition program that takes input with the help of a pen by writing in air, with more than 95% * accuracy which does so much more than just recognition.There's a calculator,brightness control, music player, sketch pad and an ASCII art all which can be used with minimum keyboard interaction by the user. The possibilities are limitless and we will release updates at regular intevals. 
+
+Team Members:
+[Anubhaw Bhalotia](https://github.com/anubhawbhalotia)
+[Karthik Vedantam](https://github.com/kingsisland)
+[Muskan Jhunjhunwalla](https://github.com/musukeshu)
+
+
 
