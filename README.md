@@ -152,5 +152,16 @@ Team Members:
 [Abhishek Agarwal](https://github.com/abhishek-31),
 [Deepesh Manwani](https://github.com/deepmanwani18)
 
+**12. Team Cases&Tarses**
 
+Project Name : The Stark Void
 
+Project Link : https://github.com/HugeLearner/TheStarkVoid1
+
+Description : A game made in Unity 2017.3.0f3, Models and Image effects imported from Unity Standard Assets and Scripted in C#, All the script files have been uploaded to the repository.
+
+Project Members :
+
+1. Sarthak Sharma
+2. Avnish Dhaulta
+3. Manikya Verma
