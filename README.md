@@ -165,3 +165,25 @@ Project Members :
 1. Sarthak Sharma
 2. Avnish Dhaulta
 3. Manikya Verma
+
+
+**13. Team Tech Gadgets**
+
+Project name: Computer Numerical Control
+
+Description: This project covers its applications in the range of PCB design, artistic works and many more. Depending on the image to be drawn, the computer will generate the appropriate coordinates and then controls the positions of the motors to create the image. 
+
+Video demo link: https://goo.gl/sYeVk3
+
+Team Members: Vivek Yadav, Umesh Pant, Abhishek Kumar Jatav, Kritika Mahajan
+
+**14. Team Alma Libre**
+
+Project name: Game A.O.R
+
+Project link: https://github.com/aarsh-sharma/A.O.R
+
+Description: A game project created using javascript
+
+Team Members: Mayank Gautam, Aarsh Sharma, Abhinav Rawat, Arya Bhardwaj, Saurabh Sharma
+
